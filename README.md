@@ -14,7 +14,7 @@ https://kdocs.cn/l/cmqB5kYnODzN
 https://kdocs.cn/l/cp7ppdbff6Yw
 
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ssaa761961-hue/er.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ssaa761961-hue/ee.git)
 https://dashboard.heroku.com/new?template=
 
 ### heroku上部署v2ray
@@ -26,15 +26,15 @@ https://dashboard.heroku.com/new?template=
 
 请求`/`，返回3D元素周期表
 
-![image](https://cdn.jsdelivr.net/gh/ssaa761961-hue/er/doc/1.png)
+![image](https://cdn.jsdelivr.net/gh/ssaa761961-hue/ee/doc/1.png)
 
 请求`/speedtest/`，html5-speedtest测速页面
 
-![image](https://cdn.jsdelivr.net/gh/ssaa761961-hue/er/doc/2.png)
+![image](https://cdn.jsdelivr.net/gh/ssaa761961-hue/ee/doc/2.png)
 
 请求`/test/`，文件下载速度测试
 
-![image](https://cdn.jsdelivr.net/gh/ssaa761961-hue/er/doc/3.png)
+![image](https://cdn.jsdelivr.net/gh/ssaa761961-hue/ee/doc/3.png)
 
 请求`/ray`（可配置）v2ray websocket路径
 
